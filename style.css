@@ -467,7 +467,7 @@ font-weight: 700;
 line-height: 24px;
 margin-bottom: 23px;
 }
-#cursiv{
+.cursiv{
 font-family: 'Merriweather', serif;
 color:  #766f6f;
 font-size: 15px;
@@ -571,9 +571,6 @@ font-size: 13.48px !important;
 font-weight: 400 !important;
 line-height: 24px !important;
 }
-.sponsor{
-margin-top: 17%;
-}
 #snow{
 background: url(img/christmas_snow_trees-wide.jpg) no-repeat;
 background-position: center;
@@ -584,7 +581,7 @@ padding-bottom: 40px;
 display: flex;
 justify-content: space-between;
 flex-wrap: wrap;
-padding-top: 14%;
+padding-top: 4%;
 }
 .message{
 background-color:  rgba(2, 22, 35, 0.71);
@@ -797,13 +794,6 @@ margin-right: 10px;
 .say{
 justify-content: center;
 }
-.sponsor{
-margin-top: 14%;
-text-align: center;
-}
-.sponsor img{
- width: 800px;
-    }
 .contact{
 justify-content: center;
 padding-bottom: 20px;
@@ -836,9 +826,6 @@ margin-top: 9%;
 margin-top: 100px;
 text-align: center;
 }
-.sponsor img{
- width: 700px;
-    }
 }
 @media screen and (max-width:600px){
 .text p{
@@ -899,9 +886,6 @@ width: 396px;
 width: 369px;
 margin-left: 16px;
 }
-.sponsor img{
- width: 500px;
-    }
 .message{
 width: 414px;
 }
@@ -1020,7 +1004,7 @@ padding-top: 12px;
 font-size: 16px;
 margin-bottom: 12px;
 }
-#cursiv{
+.cursiv{
 font-size: 13px;
 }
 .text4 p{
@@ -1045,9 +1029,6 @@ font-size: 15px;
 .text5 p{
 font-size: 13px;
 }
-.sponsor img{
- width: 250px;
-    }
 .message{
 width: 274px;
 }
@@ -1197,9 +1178,6 @@ padding-top: 12px;
 font-size: 16px;
 margin-bottom: 12px;
 }
-#cursiv{
-font-size: 13px;
-}
 .text4 p{
 font-size: 12px;
 }
@@ -1222,9 +1200,6 @@ font-size: 15px;
 .text5 p{
 font-size: 13px;
 }
-.sponsor img{
- width: 250px;
-    }
 .message{
 width: 274px;
 }
